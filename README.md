@@ -1,9 +1,9 @@
-Excel Project-
+### Goal:
+Organize and analyze 4,000 past Kickstarter projects in order to discover trends and gain insight as to why some Kickstarters fail and others succeed.
 
-## Background
+### Process:
+Used conditional formatting to color-code project states and percentage of project funded in order to easily see the progress of each project.
 
-Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
+Used formulas to calculate the average donation amount of each project, convert Unix timestamps, and split cells into new columns by specified delimiter.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
-
-This project organizes and analyzes a database of 4,000 past projects in order to uncover any hidden trends.
+Created pivot tables and pivot charts to analyze the relationship between success rates and parent-category, sub-category, launch dates, and goal amount.
